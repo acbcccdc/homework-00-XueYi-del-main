@@ -1,0 +1,12 @@
+opencv-python
+numpy
+gradio==4.39.0
+mediapipe==0.10.31
+scipy
+torch
+torchvision
+onnxruntime
+torchlm
+# 备选（需要系统已安装 Git）：
+# git+https://github.com/DefTruth/torchlm.git
+
