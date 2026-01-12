@@ -1,4 +1,5 @@
 opencv-python
+<<<<<<< HEAD
 numpy
 gradio==4.39.0
 mediapipe==0.10.31
@@ -9,4 +10,11 @@ onnxruntime
 torchlm
 # 备选（需要系统已安装 Git）：
 # git+https://github.com/DefTruth/torchlm.git
+=======
+dlib
+imutils
+numpy
+gradio
+mediapipe==0.10.10
+>>>>>>> origin/main
 
